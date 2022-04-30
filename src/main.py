@@ -1,3 +1,6 @@
 # This is my starting code
 
-def login()
+def login():
+    pass
+def isValidUser():
+    pass 
