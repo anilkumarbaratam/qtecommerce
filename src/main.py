@@ -2,5 +2,9 @@
 
 def login():
     pass
+
 def isValidUser():
-    pass 
+    pass
+ 
+def logout():
+    pass
